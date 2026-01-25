@@ -1,6 +1,6 @@
 # Wong Pin Rui
 
-**Student**
+**Student**  
 Singapore, Singapore | wong_pin_rui@student.edu.sg | +65 8800 7802 | [Linkedin](https://linkedin.com/in/wong-pin-rui-17a209368/)
 
 ***
