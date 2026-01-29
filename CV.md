@@ -27,7 +27,7 @@ Student at River Valley Junior College, highly interested in STEM Subjects, espe
 - Learnt about basic cryptography such as Diffie-Hellman Key Exchange and RSA
 
 **St John Brigade**  
-*Singapore, Singapore | January 2022 - December 2025*  
+*Singapore, Singapore | January 2022 - December 2025 | 4 years*  
 Rank: Platoon Sargent
 - Learnt and taught basic first aid skills to juniors
 - Participated in multiple VIA activities organised by the CCA
