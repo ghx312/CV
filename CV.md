@@ -40,7 +40,7 @@ Rank: Platoon Sargent
 
 **Aurora**
 - An end-to-end encryption messaging service using modern cryptographic primitives
-- ECDH Key Exchange, RSA-PSS, HKDF-SHA-256, AES-GCM-256
+- ECDH Key Exchange, ECDSA, HKDF-SHA-256, AES-GCM-256
 - Built with privacy-first architecture
 
 **Self-Initiated Learning (Cryptography)**  
