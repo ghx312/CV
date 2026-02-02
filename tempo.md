@@ -430,9 +430,9 @@ Going forward, implement these practices:
 
 ## Researcher Information
 
-**Researcher:** [Your Name]  
-**Contact:** [Your Email]  
-**Date Reported:** [Current Date]  
+**Researcher:** Wong Pin Rui  
+**Contact:** wong_pin_rui@students.edu.sg  
+**Date Reported:** 2/2/2026  
 **Test Environment:** Windows, Multiple browsers (Chrome, Firefox, Edge)
 
 ---
